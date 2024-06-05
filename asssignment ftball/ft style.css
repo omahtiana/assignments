@@ -1,0 +1,244 @@
+body{
+    background-color: green;
+}
+.line{
+    height: 690px;
+    width: 50px;
+    border: 5px solid white;
+    position:absolute ;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    left:500px;
+
+}
+.parent{
+    width: 1000px;
+    height: 700px;
+    border: 5px solid white;
+    margin: auto;
+    margin-top: 20px;
+    position:relative ;
+}
+.circle{
+    border-radius:50%;
+    height: 200px;
+    width: 200px;
+    border: 5px solid white;
+    position: absolute;
+    left: 405px;
+    top: 220px ;
+     right: 1000px;
+
+}
+
+.goalpost1{
+    height: 350px;
+    width: 200px;
+    border: 5px solid white;
+    position: absolute;
+    top: 150px;
+    border-left: none
+}
+
+.goalpostin{
+    height:150px;
+    width: 100px;
+    border: 5px solid white;
+    position: absolute;
+    top: 90px;
+    border-left: none;
+}
+
+.goalpost2{
+    height:350px ;
+    width:200px ;
+    border:5px solid white ;
+    position: absolute;
+    left:790px;
+    top: 150px;
+    border-right: none;
+}
+
+.goalpost2in{
+    height: 150px;
+    width: 100px;
+    border: 5px solid white;
+    position: absolute;
+    top: 90px;
+    left: 100px;
+    border-right: none;
+
+}
+.dot1{
+    font-size: 100px;
+    font-weight: 200px;
+    color: white;
+    position: absolute;
+    right: 40px;
+    top: 60px;
+}
+.dot2{
+    font-size: 100px;
+    color: white;
+    position: absolute;
+    left: 40px;
+    top: 60px;
+}
+
+.Ls{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color:black;
+    position: absolute;
+    background-color: yellow;
+    font-size:17px;
+    font-weight: bolder;
+    height: 40px;
+    width: 40px;
+     right: 240px;
+     top: 50px;
+     text-align:center;
+     padding-top:500 px;
+}
+
+.Rs{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right: 240px;
+    top: 250px;
+    
+}
+
+.AM{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right: 353px;
+    top: 150px;  
+}
+
+.CM{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right:465PX;
+    top:15PX;
+}
+
+.DM{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right:570PX;
+    top:150PX ;
+}
+
+.CM2{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right:465px;
+    top:279px ;
+}
+
+.LB{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right:680px;
+    bottom:350px ;
+}
+
+.CB{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right:720px;
+    bottom: 230px;
+}
+
+.CB2{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right:730px;
+    bottom:90px ;
+}
+
+.RB{
+    border-radius: 50%;
+    border: 2px solid yellow;
+    color: black;
+    position: absolute;
+    background-color: yellow;
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right: 670px;;
+    top: 350px;
+}
+
+.GK{
+    border-radius: 50%;
+    border: 2px solid rgb(37, 67, 1);
+    color: black;
+    position: absolute;
+    background-color: rgb(6, 70, 6);
+    font-weight:bolder;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    right:88 0px;
+    top:150px;  
+}
