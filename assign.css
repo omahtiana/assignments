@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+@media screen and (max-width:1000px) {
+.row{
+   
+    grid-template-rows: repeat(6, minmax(0, 1fr));
+}
+    
+}
+    
